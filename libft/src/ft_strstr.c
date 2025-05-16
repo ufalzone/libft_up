@@ -33,4 +33,3 @@ char	*ft_strstr(const char *big, const char *little)
 	}
 	return (NULL);
 }
-
